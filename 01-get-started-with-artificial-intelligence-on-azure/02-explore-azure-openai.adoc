@@ -1,0 +1,23 @@
+== Introduction
+https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/1-introduction
+
+== What is generative AI
+https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/2-what-is-generative-ai
+
+== Describe Azure OpenAI
+https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/3-describe-azure-openai
+
+== How to use Azure OpenAI
+https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/4-how-to-use-azure-openai
+
+== Understand OpenAI's natural language capabilities
+https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/5-understand-openai-natural-language
+
+== Understand OpenAI code generation capabilities
+https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/6-understand-openai-code-generation
+
+== Understand OpenAI's image generation capabilities
+https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/7-understand-openai-image-generation
+
+== Describe Azure OpenAI's access and responsible AI policies
+https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/8-describe-openai-responsible-ai
