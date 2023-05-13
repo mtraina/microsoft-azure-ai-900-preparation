@@ -1,3 +1,20 @@
 == Understand machine learning
 https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/2-understand-machine-learn
 
+== Understand anomaly detection
+https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/3-understand-anomaly-detection
+
+== Understand computer vision
+https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/4-understand-computer-vision
+
+== Understand natural language processing
+https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/5-understand-natural-language-process
+
+== Understand knowledge mining
+https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/6-understand-knowledge-mining
+
+== Challenges and risks with AI
+https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/7-challenges-with-ai
+
+== Understand Responsible AI
+https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/8-understand-responsible-ai
