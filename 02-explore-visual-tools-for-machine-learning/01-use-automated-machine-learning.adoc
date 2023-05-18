@@ -1,0 +1,24 @@
+== What is machine learning?
+https://learn.microsoft.com/en-us/training/modules/use-automated-machine-learning/2-what-is-ml
+
+== What is Azure Machine Learning studio?
+https://learn.microsoft.com/en-us/training/modules/use-automated-machine-learning/3-what-is-azure-machine-learning-studio
+
+== What is Azure Automated Machine Learning?
+https://learn.microsoft.com/en-us/training/modules/use-automated-machine-learning/4-what-is-automated-machine-learning
+
+== Understand the AutoML process
+https://learn.microsoft.com/en-us/training/modules/use-automated-machine-learning/5-machine-learning-steps
+
+== Exercise - Explore Automated Machine Learning in Azure ML
+https://learn.microsoft.com/en-us/training/modules/use-automated-machine-learning/6-exercise
+
+[source, shell]
+----
+location=switzerlandnorth
+rgname=ai900preparationrgtest
+az group create --name $rgname --location $location
+az group list
+
+az group delete --name $rgname
+----
