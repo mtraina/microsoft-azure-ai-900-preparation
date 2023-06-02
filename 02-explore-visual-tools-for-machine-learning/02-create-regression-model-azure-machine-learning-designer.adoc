@@ -1,0 +1,24 @@
+== Identify regression machine learning scenarios
+https://learn.microsoft.com/en-us/training/modules/create-regression-model-azure-machine-learning-designer/2-regression-scenarios
+
+== What is Azure Machine Learning?
+https://learn.microsoft.com/en-us/training/modules/create-regression-model-azure-machine-learning-designer/3-what-is-azure-machine-learning
+
+== What is Azure Machine Learning designer?
+https://learn.microsoft.com/en-us/training/modules/create-regression-model-azure-machine-learning-designer/4-what-is-azure-designer
+
+== Understand steps for regression
+https://learn.microsoft.com/en-us/training/modules/create-regression-model-azure-machine-learning-designer/5-regression-steps
+
+== Exercise - Explore regression with Azure Machine Learning designer
+https://learn.microsoft.com/en-gb/training/modules/create-regression-model-azure-machine-learning-designer/6-exercise
+
+[source, shell]
+----
+location=switzerlandnorth
+rgname=ai900preparationrgtest
+az group create --name $rgname --location $location
+az group list
+
+az group delete --name $rgname
+----

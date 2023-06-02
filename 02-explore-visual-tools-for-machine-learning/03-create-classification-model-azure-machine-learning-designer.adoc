@@ -1,0 +1,9 @@
+== Identify classification machine learning scenarios
+https://learn.microsoft.com/en-gb/training/modules/create-classification-model-azure-machine-learning-designer/classification-scenarios
+
+== Understand steps for classification
+https://learn.microsoft.com/en-gb/training/modules/create-classification-model-azure-machine-learning-designer/classification-steps
+
+== Exercise - Explore classification with Azure Machine Learning designer
+https://learn.microsoft.com/en-gb/training/modules/create-classification-model-azure-machine-learning-designer/exercise
+
