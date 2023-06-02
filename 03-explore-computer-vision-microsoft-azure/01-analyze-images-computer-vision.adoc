@@ -1,0 +1,5 @@
+== Get started with image analysis on Azure
+https://learn.microsoft.com/en-us/training/modules/analyze-images-computer-vision/2-image-analysis-azure
+
+== Exercise - Explore Computer Vision
+https://learn.microsoft.com/en-us/training/modules/analyze-images-computer-vision/3-analyze-images
