@@ -1,0 +1,8 @@
+== Understand classification
+https://learn.microsoft.com/en-gb/training/modules/classify-images-custom-vision/1a-overview-classification
+
+== Get started with image classification on Azure
+https://learn.microsoft.com/en-gb/training/modules/classify-images-custom-vision/2-azure-image-classification
+
+== Exercise - Explore image classification
+https://learn.microsoft.com/en-gb/training/modules/classify-images-custom-vision/3-create-image-classifier
