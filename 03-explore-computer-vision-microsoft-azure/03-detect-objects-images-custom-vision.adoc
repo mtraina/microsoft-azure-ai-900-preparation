@@ -1,0 +1,5 @@
+== Get started with object detection on Azure
+https://learn.microsoft.com/en-gb/training/modules/detect-objects-images-custom-vision/2-object-detection-azure
+
+== Exercise - Explore object detection
+https://learn.microsoft.com/en-gb/training/modules/detect-objects-images-custom-vision/3-create-object-detection-solution
