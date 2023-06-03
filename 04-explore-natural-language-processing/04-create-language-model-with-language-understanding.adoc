@@ -1,0 +1,8 @@
+== Introduction
+https://learn.microsoft.com/en-gb/training/modules/create-language-model-with-language-understanding/1-introduction
+
+== Getting started with Conversational Language Understanding
+https://learn.microsoft.com/en-gb/training/modules/create-language-model-with-language-understanding/2-get-started
+
+== Exercise - Explore language understanding
+https://learn.microsoft.com/en-gb/training/modules/create-language-model-with-language-understanding/3-exercise-create-language-understanding-application
