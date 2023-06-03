@@ -1,0 +1,8 @@
+== Introduction
+https://learn.microsoft.com/en-gb/training/modules/recognize-synthesize-speech/1-introduction
+
+== Get started with speech on Azure
+https://learn.microsoft.com/en-gb/training/modules/recognize-synthesize-speech/2-get-started-azure
+
+== Exercise - Explore speech
+https://learn.microsoft.com/en-gb/training/modules/recognize-synthesize-speech/3-exercise-transcribe-speech-use-azure
