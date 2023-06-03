@@ -1,0 +1,11 @@
+== What is Anomaly Detector?
+https://learn.microsoft.com/en-us/training/modules/intro-to-anomaly-detector/2-what-is-anomaly-detector
+
+== How Anomaly Detector works
+https://learn.microsoft.com/en-us/training/modules/intro-to-anomaly-detector/3-how-anomaly-detector-works
+
+== When to use Anomaly Detector
+https://learn.microsoft.com/en-us/training/modules/intro-to-anomaly-detector/4-when-to-use-anomaly-detector
+
+== Exercise - Explore Cognitive Services
+https://learn.microsoft.com/en-us/training/modules/intro-to-anomaly-detector/4a-exercise
