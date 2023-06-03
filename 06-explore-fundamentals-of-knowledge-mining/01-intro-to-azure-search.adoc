@@ -1,0 +1,29 @@
+== Introduction
+https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/1-introduction
+
+== What is Azure Cognitive Search?
+https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/2-what-is-azure-search
+
+== Identify elements of a search solution
+https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/2a-process
+
+== Use a skillset to define an enrichment pipeline
+https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/2b-ai-skillsets
+
+== Understand indexes
+https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/2c-understand-index
+
+== Use an indexer to build an index
+https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/2d-use-indexer-to-build-index
+
+== Persist enriched data in a knowledge store
+https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/2e-understand-knowledge-store
+
+== Create an index in the Azure portal
+https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/2f-start-with-portal
+
+== Query data in an Azure Cognitive Search index
+https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/6-query-data-in-an-azure-search-index
+
+== Exercise - Explore knowledge mining
+https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/6a-exercise
