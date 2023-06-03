@@ -1,0 +1,8 @@
+== Introduction
+https://learn.microsoft.com/en-gb/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/1-introduction
+
+== Get started with the Language service and Azure Bot Service
+https://learn.microsoft.com/en-gb/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/2-get-started-knowledge-base
+
+== Exercise - Explore question answering
+https://learn.microsoft.com/en-gb/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/3-create-bot
