@@ -1,0 +1,8 @@
+== Introduction
+https://learn.microsoft.com/en-us/training/modules/analyze-text-with-text-analytics-service/1-introduction
+
+== Get started with text analysis
+https://learn.microsoft.com/en-us/training/modules/analyze-text-with-text-analytics-service/2-get-started-azure
+
+== Exercise - Explore text analytics
+https://learn.microsoft.com/en-us/training/modules/analyze-text-with-text-analytics-service/3-exercise
