@@ -1,0 +1,8 @@
+== Introduction
+https://learn.microsoft.com/en-gb/training/modules/read-text-computer-vision/1-introduction
+
+== Get started with the Read API on Azure
+https://learn.microsoft.com/en-gb/training/modules/read-text-computer-vision/2-ocr-azure
+
+== Exercise - Explore optical character recognition with the Read API
+https://learn.microsoft.com/en-gb/training/modules/read-text-computer-vision/3-read-text-computer-vision
