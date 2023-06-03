@@ -1,3 +1,8 @@
 == Introduction
 https://learn.microsoft.com/en-gb/training/modules/translate-text-with-translation-service/1-introduction
 
+== Get started with translation in Azure
+https://learn.microsoft.com/en-gb/training/modules/translate-text-with-translation-service/2-get-started-azure
+
+== Exercise - Explore translation
+https://learn.microsoft.com/en-gb/training/modules/translate-text-with-translation-service/3-exercise-translate-text-use-azure
