@@ -1,0 +1,8 @@
+== Introduction
+https://learn.microsoft.com/en-gb/training/modules/detect-analyze-faces/1-introduction
+
+== Get started with Face analysis on Azure
+https://learn.microsoft.com/en-gb/training/modules/detect-analyze-faces/2-face-analysis-azure
+
+== Exercise - Explore face detection
+https://learn.microsoft.com/en-gb/training/modules/detect-analyze-faces/3-create-face-solutions
