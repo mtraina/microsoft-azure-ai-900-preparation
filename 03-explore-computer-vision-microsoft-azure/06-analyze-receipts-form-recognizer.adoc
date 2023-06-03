@@ -1,0 +1,8 @@
+== Introduction
+https://learn.microsoft.com/en-gb/training/modules/analyze-receipts-form-recognizer/1-introduction
+
+== Get started with receipt analysis on Azure
+https://learn.microsoft.com/en-gb/training/modules/analyze-receipts-form-recognizer/2-receipts-azure
+
+== Exercise - Explore form recognition
+https://learn.microsoft.com/en-gb/training/modules/analyze-receipts-form-recognizer/3-analyze-receipts
